@@ -1,0 +1,27 @@
+{
+  "name": "gcp-api",
+  "version": "1.0.0",
+  "description": "A google cloud hosted simple express API",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NilsLandelius/GCP-API.git"
+  },
+  "keywords": [
+    "GCP"
+  ],
+  "author": "Nils Landelius",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NilsLandelius/GCP-API/issues"
+  },
+  "homepage": "https://github.com/NilsLandelius/GCP-API#readme"
+}
