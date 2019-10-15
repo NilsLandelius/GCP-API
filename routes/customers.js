@@ -17,7 +17,7 @@ router.get('/getCustomers', async (req,res)=>{
 
 router.get('/getCustomer',async (req,res)=>{
     id = req.query.id;
-    let returnList  = await keySearch(id);
+    let returnList  = await keySearch(id.toString());
     res.send({"customer": returnList[0]});
 });
 
