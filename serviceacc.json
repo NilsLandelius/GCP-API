@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "tranquil-petal-180712",
+  "private_key_id": "8d7c5a61a1c015237f539951e10e4e1eecb1c8fe",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCcRIKPf/ug4ro6\nH8Qyq8upqaVxoMGsnvul18VpgRT2pZWecZtOP6QRGEJqzZ2ZqQgwQ+8QMKUPhxFk\nQbdou0VBBFxk0vn/vkeRmAZyTYVSGcw/TdrV2yYpDcQkJZKryTOL4Q4Al1XS/JK2\nAHlMgkqnRdZImu9j6xvZfCpoeSkdfokks2q/oNe4bdylNTRutlFhpfz/KM3+xHby\nrrlpg8Vng1rGhEK9GBY9jfrYdemy2dVMXArohBd1yCy4v3Sfac/v415cQuAs7ePZ\nxlejwNUaZFyOaeYSN5lkhXsCd7t0is06H36fphA5aCffEBNqD7485L/by8Y0qgcZ\nMhQzpgxJAgMBAAECggEARfZgU9nzcQEBanN9dkg3GyNSaJCWFXBqb0Iu5sD9fz38\nQh9P7pUMogCv/7xF8p1chqtrlV6KD+0jarUHZfLuGyFWMmfIuOjahwM+4570cSEO\nskrrjnKa36eDqMFPrOycUOR2TepzaM5e6vBEXm44+TIJsaD4S85fvhvaqsKQF10z\n6pd+OBNAcu5KGDIwPLwpJCjV+Cbut/T/hBpkgJ4bST1hLmTdIzGibt7pt1hbHcIv\nPfqAlBXgc5mhb2uYnGt5Hy22kz5WCA/ZhUb4niURgj3dHKKbh0nipTjQPjyp56nu\nYb7kZYriDbMEnAPzLdrYYhOl0WPAUWJWJc6Jwtj3jwKBgQDMfZcjP/3cwGNSQ5+j\nNDBWBYVcA1N7baE5jHv1u4PxF33/tJZxCm0Y2pFzbAcbLBSI+XJ53g+WZdhdUxrg\napKsr5T7xoak384aTmdRnF8CN5keRvD2hkt/i1PO1Z15EZxROrJwUmpNUAbQMa7w\n94WADuQGP1GT2anEPpUYYamu3wKBgQDDoUzuQGYz76nKYMdyo9VHWJpSY/O6z/WB\nI1T2/8a+WEKVQO3n9pWHqYzKBtpsdU0KDG003dCYNIGX3ydMcuQHPj1mZMfsxjIM\nM3xkbSARUXTi1Gp9hcJIiveqbgcpFf4zp3fs/+GCwLaPSOY1Yur/1AprVOTMpPkn\njF4At0Sx1wKBgQC7A6DVfBCPcuNiuLWmbHRIN4RfQit3Fiv8lZ5IfdWNCA8Ta/Sq\nLP7ZXArppEJbd1TQcFFhYtSel0XpE7fgxZael3WJTWaWIpg7NrkGyhuZy38dUYPN\n8cPaQXHEF1iNAK4VG7lVQAo36phQjx+PAM/27adcj0vsC4RXFWUFh0vHwQKBgCkJ\nyU2hjM8QU5n0u2I9JByXZagq95IU1feFJem6tkJv2Wfd+wpSHAQdeT9YOLHP2Z1m\nBfK1JXEIcrcdRO0wnM04LUExmw78dLtCgbG/gp6fa9m5na0/RgZZwKKr+iyQRIcp\ndmrtMq1vJ9ze+gvw+EM6hAUIBgc4BFxbgcy8pVh5AoGAcxoc23T45fb4L+GyOIRJ\n0I4si/sIHviGpse6hImTrOR0e35WfSa2iLV8Hfwq4l94A3pM/ugOC73lrHMsauRR\ndkw0XPDK4Xjxl1XM8TnsE8JM1UdeOfMsSz1Q9WDdI39daIOP7MdL3tFu+fCeQq3B\nhI/mYoS/JdhGOtiUZnUWgEI=\n-----END PRIVATE KEY-----\n",
+  "client_email": "gcp-api@tranquil-petal-180712.iam.gserviceaccount.com",
+  "client_id": "116642143320973621317",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/gcp-api%40tranquil-petal-180712.iam.gserviceaccount.com"
+}
