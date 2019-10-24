@@ -9,16 +9,16 @@ router.get('/getCustomers', async (req,res)=>{
     const customlist = await getCustomers();
     let returnList = [];
     for (x=0;x<customlist.length;x++){
-        var cu = {"id":customlist[x][datastore.KEY].id,"name":customlist[x].name}
+        var cu = [customlist[x][datastore.KEY].id,customlist[x].name]
         returnList.push(cu);
     };
-    res.send({"customers": returnList});
+    res.send(returnList);
 });
 
 router.get('/getCustomer',async (req,res)=>{
     id = req.query.id;
     let returnList  = await keySearch(id.toString());
-    res.send({"customer": returnList[0]});
+    res.json(returnList[0])
 });
 
 module.exports = router;
